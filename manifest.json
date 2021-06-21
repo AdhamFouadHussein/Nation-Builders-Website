@@ -1,6 +1,6 @@
 {
-    "name": "nation_builders",
-    "short_name": "nation_builders",
+    "name": "Nation Builders",
+    "short_name": "Nation Builders",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
