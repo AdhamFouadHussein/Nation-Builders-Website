@@ -1,9 +1,6 @@
 {
     "home": "Home",
     "profile": "Profile",
-    "To do list" : "To-do list",
-    "azkar": "Prayers",
-    "Prayer Timings" : "Prayer Timings",
     "settings": "Settings",
     "logout": "Logut",
     "welcome": "Welcome",
@@ -13,14 +10,6 @@
     "language": "Language",
     "dark": "Dark",
     "light": "Light",
-    "Imsak": "Imsak",
-    "Fajr": "Fajr",
-    "Sunrise":"Sunrise",
-    "Dhuhr":"Dhuhr",
-    "Asr": "Asr",
-    "Maghrib":"Maghrib",
-    "Isha":"Isha",
-    "prayer times":"Prayer times",
     "login": "Login",
     "signup": "Sign Up",
     "Don't have an account ?": "Don't have an account ? ",
@@ -39,6 +28,8 @@
     "By using this app, you agree with our": "By using this app, you agree with our ",
     "Welcome": "Welcome",
     "Enter your email address to send a reset link":"Enter your email address to send a reset link",
-    "Check your inbox and spam folder...":"Check your inbox and spam folder..."
+    "Check your inbox and spam folder...":"Check your inbox and spam folder...",
+    "User exists, Try to sign in instead.":"User exists, Try to sign in instead.",
+    "Enter required data":"Enter required data"
 
 }

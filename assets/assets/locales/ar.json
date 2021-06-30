@@ -1,9 +1,6 @@
 {
     "home": "الرئيسية",
     "profile": "الملف الشخصي",
-    "To do list" : "قائمة المهام",
-    "azkar" : "اذكار",
-    "Prayer Timings" : "مواقيت الصلاة",
     "settings": "الإعدادات",
     "logout": "تسجيل الخروج",
     "welcome": "أهلا بك",
@@ -13,14 +10,6 @@
     "language":"اللغة",
     "dark": "داكن",
     "light": "فاتح",
-    "Imsak": "الإمساك",
-    "Fajr": "الفجر",
-    "Sunrise":"الصبح",
-    "Dhuhr":"الظهر",
-    "Asr": "العصر",
-    "Maghrib":"المغرب",
-    "Isha":"العشاء",
-    "prayer times":"مواقيت الصلاة",
     "login": "تسجيل الدخول",
     "signup": "إنشاء حساب جديد",
     "Don't have an account ?": "ليس لديك حساب ؟  ",
@@ -39,5 +28,7 @@
     "By using this app, you agree with our": "باستخدام هذا التطبيق ، فإنك توافق على",
     "Welcome": "مرحبا",
     "Enter your email address to send a reset link":"أدخل عنوان بريدك الإلكتروني لإرسال رابط اعادة تعيين كلمة المرور",
-    "Check your inbox and spam folder...":"تحقق من صندوق الوارد ومجلد البريد العشوائي"
+    "Check your inbox and spam folder...":"تحقق من صندوق الوارد ومجلد البريد العشوائي",
+    "User exists, Try to sign in instead.":"المستخدم موجود حاول تسجيل الدخول بدلاً من ذلك",
+    "Enter required data":"أدخل البيانات المطلوبة"
 }
